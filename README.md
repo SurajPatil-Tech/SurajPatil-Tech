@@ -112,14 +112,6 @@ A MERN-based chatbot application using a predefined knowledge base and MongoDB t
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurajPatil-Tech&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajPatil-Tech&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
